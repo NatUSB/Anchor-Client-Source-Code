@@ -66,7 +66,11 @@ if you encounter any issues open an issue i will gladly help
 
 Demo pasting shit once again! $$$$$
 
-https://github.com/NatUSB/
+[Anchor Code](https://github.com/NatUSB/Anchor-Client-Source-Code)
+[Anchor Server](https://github.com/NatUSB/Anchor-Server)
+[Anchor Obfuscator](https://github.com/NatUSB/Anchor-Shitfuscator)
+[Anchor Website](https://github.com/NatUSB/Anchor-Website)
 
+brought to you by leaks.c & nat @ paragon
 
 
