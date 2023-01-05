@@ -22,7 +22,7 @@ HorizonDevelopment12 (Demo, DemoDev, tranquility) -> pasted like everything in t
 
 UnixEspresso (Pepsi76) -> i don't even know what he did (ik a lot of stuff)
 
-NatUSB (nat) (me) -> fixed "demo's (he prob got someone to help make it as the code is dirtiest ive seen)" clickgui as he doesnt know what gl scissor does nor how it works
+ex1337 (nat) (me) -> fixed "demo's (he prob got someone to help make it as the code is dirtiest ive seen)" clickgui as he doesnt know what gl scissor does nor how it works
 
 sdxqw (sdxqw) - i don't know once again
 
